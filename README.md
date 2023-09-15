@@ -22,7 +22,7 @@ Ein einfacher Musikbot für Discord, der mithilfe von Discord.js und @discordjs/
 
 1. Starte den Bot, indem du den folgenden Befehl im Terminal ausführst:
 
--node index.js
+- node index.js
 
 
 2. Lade deinen Bot auf deinen Discord-Server ein und gewähre die erforderlichen Berechtigungen.
