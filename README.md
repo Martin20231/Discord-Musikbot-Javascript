@@ -12,7 +12,7 @@ Ein einfacher Musikbot für Discord, der mithilfe von Discord.js und @discordjs/
 
 3. Öffne ein Terminal im Projektverzeichnis und führe den folgenden Befehl aus, um die erforderlichen Abhängigkeiten zu installieren:
 
--npm install
+- npm install
 
 4. Erstelle eine Discord-Bot-Anwendung auf der [Discord Developer-Website](https://discord.com/developers/applications) und kopiere deinen Bot-Token.
 
