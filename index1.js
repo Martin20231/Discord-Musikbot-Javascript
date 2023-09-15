@@ -58,4 +58,4 @@ client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
 });
 
-client.login('MTE1MTUyNTM2MzM5NTA3MjA4Mw.GY2PSe.ZJnUiES0OFt-rghxUh4e7yDci_bF2mlJaLa3Zs');
+client.login('BOT Token hier einsetzen');
