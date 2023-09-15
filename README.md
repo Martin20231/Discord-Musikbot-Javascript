@@ -16,7 +16,7 @@ Ein einfacher Musikbot für Discord, der mithilfe von Discord.js und @discordjs/
 
 4. Erstelle eine Discord-Bot-Anwendung auf der [Discord Developer-Website](https://discord.com/developers/applications) und kopiere deinen Bot-Token.
 
-5. Passe die `client.login` Zeile in deinem `index.js`-Skript an und füge deinen Bot-Token ein.
+5. Passe die `client.login` Zeile in deinem `index1.js`-Skript an und füge deinen Bot-Token ein.
 
 ## Verwendung
 
